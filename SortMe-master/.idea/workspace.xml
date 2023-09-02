@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SortMe:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e79e60c-a2bb-4e44-8cd6-9e4e4495a003" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/frames/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/MyPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/MyPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/Visualiser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/Visualiser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setup/Implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/setup/Implementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setup/Sorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/setup/Sorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/SelectionSort.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SelectionSort</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>BubbleSort</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-4" />
+    <option name="y" value="100" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectId" id="1aX8NjETSCP59qclrNNacm5cOkR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552060926250" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SortMe\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Visualiser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frames.Visualiser" />
+      <module name="SortMe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Visualiser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e79e60c-a2bb-4e44-8cd6-9e4e4495a003" name="Default Changelist" comment="" />
+      <created>1547881832822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547881832822</updated>
+      <workItem from="1547881836179" duration="3079000" />
+      <workItem from="1548130317767" duration="85000" />
+      <workItem from="1548174983307" duration="13000" />
+      <workItem from="1551552461658" duration="1544000" />
+      <workItem from="1551589617013" duration="592000" />
+      <workItem from="1552059812948" duration="1133000" />
+      <workItem from="1552106442229" duration="257000" />
+      <workItem from="1586870541594" duration="398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
